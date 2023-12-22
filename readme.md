@@ -1,4 +1,4 @@
-# Dat Clipper
+# &#9988; &#128463; Dat Clipper
 
 Dat Clipper is a web-based tool designed for bulk removal of specific line ranges from multiple `.dat` files. It processes files entirely client-side, ensuring data privacy and security.
 
